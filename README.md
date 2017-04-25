@@ -1,7 +1,7 @@
 # Scrapy-IMDB
 Benchmarking a Big Data System
-Dataset Source: https://grouplens.org/datasets/movielens/20m/
-Project Details: https://lipyeow.github.io/ics421s17/morea/project/experience-project.html
+Dataset Source: https://grouplens.org/datasets/movielens/20m/ </br>
+Project Details: https://lipyeow.github.io/ics421s17/morea/project/experience-project.html </br>
 
 List of Queries:
 * Select all movie titles where the lowest rating is equal to 3.0 or below.
