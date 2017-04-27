@@ -2,13 +2,17 @@
 Benchmarking a Big Data System
 Dataset Source: https://grouplens.org/datasets/movielens/20m/
 
+Only using the following files from the dataset above:
+* movies.csv
+* ratings.csv
+* tags.csv
+
 List of Queries:
 * Select all movie titles where the lowest rating is equal to 3.0 or below.
-* Select all directors who made movies that have ratings higher than 8.0
-* Select the average budget where the movie rating is equal to 7.0 or greater.
-* Select all distinct languages from the dataset where the genre is romance.
-* Select the average number of faces in a poster where the duration was longer than an hour and a 55 minutes.
+* Select all movie titles where Zach Galifianakis was tagged in with a rating greater than or equal to 4.0.
+* Select the movie title that has the tag "visually appealing" and the highest rating
+*
 
 Data Processing Systems to be Benchmarked:
-* Spark:  http://spark.apache.org/
-* Storm: http://storm.apache.org/
+* Spark
+* Hive
