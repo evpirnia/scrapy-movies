@@ -1,6 +1,7 @@
 # Scrapy-IMDB
 Benchmarking a Big Data System
-Dataset Source: https://grouplens.org/datasets/movielens/20m/
+Dataset Source: https://grouplens.org/datasets/movielens/20m/ </br>
+Project Details: https://lipyeow.github.io/ics421s17/morea/project/experience-project.html </br>
 
 Only using the following files from the dataset above:
 * movies.csv
