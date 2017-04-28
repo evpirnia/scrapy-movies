@@ -37,6 +37,18 @@ Spark Output (corresponding to query number):
 3. Time taken: 17.308 seconds, Fetched 1 row(s)
 4. Time taken: 22.904 seconds, Fetched 1646 row(s)
 
-Hive CPU Utilization (corresponding to query number):
+Hive CPU Utilization:
+![hive_cpu]
+(https://evpirnia.github.com/hive_cpu.png)
 
-Spark CPU Utilization (corresponding to query number):
+Hive Disk Utilization:
+![hive_disk]
+(https://evpirnia.github.com/hive_disk.png)
+
+Spark CPU Utilization:
+![spark_cpu]
+(https://evpirnia.github.com/spark_cpu.png)
+
+Spark Disk Utilization:
+![spark_disk]
+(https://evpirnia.github.com/spark_disk.png)
