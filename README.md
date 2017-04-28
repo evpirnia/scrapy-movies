@@ -16,8 +16,14 @@ List of Queries:
 4. Select all distinct movie titles where the genre has the phrase "Act"
 
 Data Processing Systems to be Benchmarked:
-* Spark
-* Hive
+* Spark: http://spark.apache.org/
+* Hive: https://hive.apache.org/
+
+Setup and using clusters on Google Cloud Platform:
+* Spark: http://holowczak.com/getting-started-with-apache-spark-on-google-cloud-services-using-dataproc/
+* Hive: http://holowczak.com/getting-started-with-hive-on-google-cloud-dataproc/
+
+## Results
 
 Hive Output (corresponding to query number):
 1. 18 rows selected (33.878 seconds)
