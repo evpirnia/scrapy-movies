@@ -39,16 +39,16 @@ Spark Output (corresponding to query number):
 
 Hive CPU Utilization:
 ![hive_cpu]
-(https://evpirnia.github.com/hive_cpu.png)
+(https://github.com/evpirnia/Scrapy-Movies/blob/master/hive_cpu.png)
 
 Hive Disk Utilization:
 ![hive_disk]
-(https://evpirnia.github.com/hive_disk.png)
+(https://github.com/evpirnia/Scrapy-Movies/blob/master/hive_disk.png)
 
 Spark CPU Utilization:
 ![spark_cpu]
-(https://evpirnia.github.com/spark_cpu.png)
+(https://github.com/evpirnia/Scrapy-Movies/blob/master/spark_cpu.png)
 
 Spark Disk Utilization:
 ![spark_disk]
-(https://evpirnia.github.com/spark_disk.png)
+(https://github.com/evpirnia/Scrapy-Movies/blob/master/spark_disk.png)
