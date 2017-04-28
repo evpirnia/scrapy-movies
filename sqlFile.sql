@@ -7,7 +7,12 @@ where t.tag = "Zach Galifianakis" and m.movieId = t.movieId
 group by m.title;
 
 /* Select all movie titles and average rating with the tag "visually appealing" */
-
+select m.title, avg(rating)
+from movies m, tags t, ratings r
+where m.movieId = t.movieId
+and m.movieId = r.movieId
+and t.tag like 'visually appealing'
+group by m.title;
 
 /* Count the number of records where the movie rating is greater than or equal to 4.5 and the movie id is greater than or equal to 96000*/
 select count(*)
