@@ -30,3 +30,13 @@ Hive Output (corresponding to query number):
 2. 197 rows selected (53.175 seconds)
 3. 1 row selected (30.086 seconds)
 4. 1646 rows selected (33.01 seconds)
+
+Spark Output (corresponding to query number):
+1. Time taken: 19.296 seconds, Fetched 18 row(s)
+2. Time taken: 28.803 seconds, Fetched 197 row(s)
+3. Time taken: 17.308 seconds, Fetched 1 row(s)
+4. Time taken: 22.904 seconds, Fetched 1646 row(s)
+
+Hive CPU Utilization (corresponding to query number):
+
+Spark CPU Utilization (corresponding to query number):
