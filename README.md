@@ -38,17 +38,13 @@ Spark Output (corresponding to query number):
 4. Time taken: 22.904 seconds, Fetched 1646 row(s)
 
 Hive CPU Utilization:
-![hive_cpu]
-(https://github.com/evpirnia/Scrapy-Movies/blob/master/hive_cpu.png)
+![hive_cpu](https://github.com/evpirnia/Scrapy-Movies/blob/master/hive_cpu.png)
 
 Hive Disk Utilization:
-![hive_disk]
-(https://github.com/evpirnia/Scrapy-Movies/blob/master/hive_disk.png)
+![hive_disk](https://github.com/evpirnia/Scrapy-Movies/blob/master/hive_disk.png)
 
 Spark CPU Utilization:
-![spark_cpu]
-(https://github.com/evpirnia/Scrapy-Movies/blob/master/spark_cpu.png)
+![spark_cpu](https://github.com/evpirnia/Scrapy-Movies/blob/master/spark_cpu.png)
 
 Spark Disk Utilization:
-![spark_disk]
-(https://github.com/evpirnia/Scrapy-Movies/blob/master/spark_disk.png)
+![spark_disk](https://github.com/evpirnia/Scrapy-Movies/blob/master/spark_disk.png)
