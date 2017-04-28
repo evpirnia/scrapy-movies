@@ -21,8 +21,5 @@ Data Processing Systems to be Benchmarked:
 
 Setup and using clusters on Google Cloud Platform:
 * Spark: http://holowczak.com/getting-started-with-apache-spark-on-google-cloud-services-using-dataproc/<br>
-  1)
-  2)
 * Hive: http://holowczak.com/getting-started-with-hive-on-google-cloud-dataproc/<br>
-  1)
-  2)
+
